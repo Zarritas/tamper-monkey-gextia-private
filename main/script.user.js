@@ -32,7 +32,7 @@
         }
     }
     async function addGextiaButton() {
-        const url = 
+        const url = ""
         const loginAuthContainer = document.querySelector('.o_login_auth');
         if (loginAuthContainer) {
             const authProvidersDiv = document.createElement('div');
