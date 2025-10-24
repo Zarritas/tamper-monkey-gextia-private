@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Acceso Privado Odoo v16
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Añade un botón para acceder con Gextia en la página de login de Odoo v16
 // @author       You
 // @match        *://*/web/login*
 // @match        *://*/*/web/login*
 // @icon         https://academy.factorlibre.com//web/image/website/1/favicon?unique=0bd9648
+// @updateURL    https://github.com/FlJesusLorenzo/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
+// @downloadURL  https://github.com/FlJesusLorenzo/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
 // @grant        none
 // ==/UserScript==
 (function() {
