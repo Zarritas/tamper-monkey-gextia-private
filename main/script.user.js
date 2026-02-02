@@ -7,8 +7,8 @@
 // @match        *://*/web/login*
 // @match        *://*/*/web/login*
 // @icon         https://academy.factorlibre.com//web/image/website/1/favicon?unique=0bd9648
-// @updateURL    https://github.com/FlJesusLorenzo/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
-// @downloadURL  https://github.com/FlJesusLorenzo/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
+// @updateURL    https://github.com/Zarritas/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
+// @downloadURL  https://github.com/Zarritas/tamper-monkey-gextia-private/raw/refs/heads/main/main/script.user.js
 // @grant        none
 // ==/UserScript==
 (function() {
